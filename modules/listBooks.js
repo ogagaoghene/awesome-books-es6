@@ -1,5 +1,5 @@
 /* eslint-disable */
-const listBtn = document.querySelector('.list-btn');
+export const listBtn = document.querySelector('.list-btn');
 
 listBtn.addEventListener('click', (e) => {
   e.preventDefault();
@@ -8,4 +8,3 @@ listBtn.addEventListener('click', (e) => {
   document.querySelector('.contact').style.display = 'none';
 });
 
-export { listBtn };

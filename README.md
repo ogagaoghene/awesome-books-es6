@@ -1,62 +1,45 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Awesome-Books
 
-# Project Name
+# Description the project.
 
-> Description the project.
-
+- "Awesome books es6" is a simple website that displays a list of books and allows you to add and remove books from that list.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+- html/css/js.
+- following linters standards.
+- following github flows standards.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
+**My project works on mobile and desktop using @Media queries .**
+****************************************************
 To get a local copy up and running follow these simple example steps.
+follow>>>>>>>>>
 
-### Prerequisites
 
-### Setup
+## To make a copy
 
-### Install
+Run:
+```
+git clone https://github.com/ogagaoghene/awesome-books-es6.git
+```
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+this website can be used for commercial reasons or marketing.
 
 ## Authors
 
-👤 **Author1**
+👤 **Esi Ogagaogene**
+- GitHub: (https://github.com/ogagaoghene)
+- Twitter: [@esi_ogaga](https://twitter.com/@esi_ogagaoghene)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+👤 **Satyam Sharma**
 
-👤 **Author2**
+- GitHub: [@samWfelcie](https://github.com/samWfelice)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+## 🤝 credit
 
 ## Show your support
 
@@ -64,7 +47,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse
 - Inspiration
 - etc
 

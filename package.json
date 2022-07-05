@@ -642,6 +642,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
+  "mode": "production",
   "bugs": {
     "url": "https://github.com/ogagaoghene/awesome-books-es6/issues"
   },

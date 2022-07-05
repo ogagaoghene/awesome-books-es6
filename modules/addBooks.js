@@ -1,5 +1,5 @@
 /* eslint-disable */
-const bookAddBtn = document.querySelector('.add-btn');
+export const bookAddBtn = document.querySelector('.add-btn');
 
 bookAddBtn.addEventListener('click', (e) => {
   e.preventDefault();
@@ -7,5 +7,3 @@ bookAddBtn.addEventListener('click', (e) => {
   document.querySelector('.books').style.display = 'none';
   document.querySelector('.contact').style.display = 'none';
 });
-
-export { bookAddBtn };

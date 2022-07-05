@@ -11,7 +11,7 @@ class Book {
     this.author = author;
   }
 
-  add() {
+  add = () => {
     const book = document.createElement('div');
     book.className = 'book';
     book.setAttribute('id', this.id);

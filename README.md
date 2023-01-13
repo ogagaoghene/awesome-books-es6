@@ -21,8 +21,8 @@ Go to the project directory
 ## Authors
 
 👤 **Esi Ogagaogene**
-- GitHub: (https://github.com/ogagaoghene)
-- Twitter: [@esi_ogaga](https://twitter.com/@esi_ogagaoghene)
+- GitHub: [@ogagaoghene](https://github.com/ogagaoghene)
+- Twitter: [@esi_ogaga](https://twitter.com/esi_ogaga)
 
 👤 **Satyam Sharma**
 

@@ -1,32 +1,22 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
 # Awesome-Books
+> Awesome books is a simple website that displays a list of books and allows you to add and remove books from the list.
 
-# Description the project.
+## Tech Stack
 
-- "Awesome books es6" is a simple website that displays a list of books and allows you to add and remove books from that list.
+**Client:** HTML, CSS, JavaScript
 
-## Built With
+## Run Locally
+Clone the project
 
-- html/css/js.
-- following linters standards.
-- following github flows standards.
-
-## Getting Started
-
-**My project works on mobile and desktop using @Media queries .**
-****************************************************
-To get a local copy up and running follow these simple example steps.
-follow>>>>>>>>>
-
-
-## To make a copy
-
-Run:
+```bash
+  git clone https://github.com/ogagaoghene/awesome-books-es6.git
 ```
-git clone https://github.com/ogagaoghene/awesome-books-es6.git
-```
+Go to the project directory
 
-### Usage
-this website can be used for commercial reasons or marketing.
+```bash
+  cd awesome-books-es6
+```
 
 ## Authors
 
